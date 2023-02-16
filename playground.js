@@ -8,9 +8,7 @@
 */
 
 // Enter your code below this line
-for(var i=1; i<=10; i++) {
-	console.log(i);
-}
+
 
 // Code example
 // for(var i=1; i<=10; i++) {
